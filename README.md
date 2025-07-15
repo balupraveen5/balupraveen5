@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Balu Piraveen  
+🚀 Aspiring Software Developer | MERN Stack Enthusiast | Java Programmer  
+🎓 Final Year ECE Student | Passionate about building real-world web applications  
 
-<!--
-**balupraveen5/balupraveen5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+- 🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS 
+- ⚙️ Backend: Node.js, Express.js  
+- 🛢️ Database: MySQL  
+- ☕ Java | 📊 Data Structures and Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me:
+- 📧 Email: balupr555@gmail.com 
+- 🔗 LinkedIn: [linkedin.com/in/BaluPiraveen](https://www.linkedin.com/in/balu-piraveen-985185254/)  
+
+
+
