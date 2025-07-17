@@ -13,6 +13,11 @@ Hi 👋, I'm Balu Piraveen
 
 ---
 
+
+## LeetCode Profile
+[![LeetCode Stats](https://leetcard.jacoblin.cool/balu_0107)](https://leetcode.com/balu_0107/)
+
+
 ## 📫 Connect with Me:
 - 📧 Email: balupr555@gmail.com 
 - 🔗 LinkedIn: [linkedin.com/in/BaluPiraveen](https://www.linkedin.com/in/balu-piraveen-985185254/)  
