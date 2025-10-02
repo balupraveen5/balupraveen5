@@ -9,7 +9,7 @@ Hi 👋, I'm Balu Piraveen
 - 🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS 
 - ⚙️ Backend: Node.js, Express.js  
 - 🛢️ Database: MySQL  
-- ☕ Java | 📊 Data Structures and Algorithms  
+- ☕ Java | 📊 Data Structures and Algorithms  | OOPS | DBMS
 
 ---
 
