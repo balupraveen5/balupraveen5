@@ -1,13 +1,13 @@
-# 💫 About Me:
+# About Me:
 Hi 👋, I'm Balu Piraveen  
-🚀 Aspiring Software Developer | MERN Stack Enthusiast | Java Programmer  
+🚀 Aspiring Software Developer | Full Stack Enthusiast | Java Programmer  
 🎓 Final Year ECE Student | Passionate about building real-world web applications  
 
 ---
 
 ## 💻 Tech Stack:
 - 🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS 
-- ⚙️ Backend: Node.js, Express.js  
+- ⚙️ Backend: SpringBoot
 - 🛢️ Database: MySQL  
 - ☕ Java | 📊 Data Structures and Algorithms  | OOPS | DBMS
 
